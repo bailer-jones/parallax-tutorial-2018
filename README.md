@@ -6,11 +6,12 @@ Coryn Bailer-Jones, MPIA Heidelberg (https://mpia.de/homes/calj)
 
 This tutorial concerns inferring distances and velocities from parallaxes and proper motions using the Bayesian approach. It uses R codes in jupyter notebooks, together with simulated data and data from Gaia-DR1 (TGAS). The tutorial is divided into three parts, each with its own notebook:
 
-1. Inference of distance to a single source using its parallax. Includes: various priors, simple hierarchical model. 
-2. Inference of distance to and size of a cluster using parallax and positions of its members. Includes: accommodating to correlated measurements. See resources/cluster_inference.pdf for details.
-3. Inference of distance to and 2D tangential velocity on the sky of a single source using its parallax and proper motion. Includes: use of MCMC. See resources/3D_astrometry_inference.pdf for details. 
+1. Inference of distance to a single source using its parallax. Includes: simple hierarchical model. 
+2. Inference of distance to and size of a cluster using parallax and positions of its members. Includes: naive parallax combination; accommodating correlated measurements; 2D cluster model. See resources/cluster_inference.pdf for details.
+3. Inference of distance to and 2D tangential velocity on the sky of a single source using its parallax and proper motion. Includes: explicit use of MCMC to sample the posterior. See resources/3D_astrometry_inference.pdf for details. 
 
 You should do tutorial 1 before tackling 2 or 3.
+
 The more generic functions used the tutorials are in the files in the Rcode/ directory.
 
 These tutorials assume that you are familiar with the basic idea of inferring a distance given a parallax and a prior, as described in [Bailer-Jones 2015 (paper 1)](http://adsabs.harvard.edu/abs/2015PASP..127..994B). Additional resources and references are provided below.
