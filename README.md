@@ -19,8 +19,8 @@ These tutorials assume that you are familiar with the basic idea of inferring a 
 Resources and further information:
 * [Cluster distance inference] (resources/cluster_inference.pdf)
 * [Joint inference from parallax and proper motions (CBJ-081)] (resources/3D_astrometry_inference.pdf)
-* [Gaia Data Release 1](http://adsabs.harvard.edu/abs/2017A%26A...601A..19G)
 * [Bailer-Jones 2015 (paper 1)](http://adsabs.harvard.edu/abs/2015PASP..127..994B)
 * [Astraatmadja & Bailer-Jones 2016a (paper 2)](http://adsabs.harvard.edu/abs/2016ApJ...832..137A)
 * [Astraatmadja & Bailer-Jones 2016b (paper 3)](http://adsabs.harvard.edu/abs/2016ApJ...833..119A)
+* [Gaia Data Release 1](http://adsabs.harvard.edu/abs/2017A%26A...601A..19G)
 * [Practical Bayesian Inference (PBI)](http://www.cambridge.org/de/academic/subjects/physics/mathematical-methods/practical-bayesian-inference-primer-physical-scientists?format=PB)
