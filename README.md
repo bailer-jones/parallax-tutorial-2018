@@ -1,4 +1,4 @@
-WARNING: Tutorial still being written. Do not use yet!
+WARNING: Tutorial still under development.
 
 # Parallax tutorial 2018
 
