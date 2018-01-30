@@ -12,7 +12,7 @@ This tutorial concerns inferring distances and velocities from parallaxes and pr
 
 The more generic functions used the tutorials are in the files in the Rcode/ directory.
 
-These tutorials assume that you are familiar with the basic idea of inferring a distance given a parallax and a prior, as described in [Bailer-Jones 2015 (paper 1)](http://adsabs.harvard.edu/abs/2015PASP..127..994B). Additional resources and references are provided below. You should do tutorial 1 before tackling 2 or 3. 
+These tutorials assume that you are familiar with the basic idea of Bayesian inference, and inferring a distance given a parallax and a prior, as described in [Bailer-Jones 2015 (paper 1)](http://adsabs.harvard.edu/abs/2015PASP..127..994B). Additional resources and references are provided below. You should do tutorial 1 before tackling 2 or 3. 
 
 The purpose of these tutorials is just to show how to work with astrometric data in inference problems. Sometimes you will have other relevant information(e.g. colour and apparent magnitude) which can also be used to help infer the distamce. And sometimes you won't want to infer a distance at all (e.g. as an intermediate measure; or if you are doing model fitting, which is probably better done in the parallax space where the measurement model is simpler).
 
@@ -23,5 +23,6 @@ Resources and further information:
 * [Astraatmadja & Bailer-Jones 2016a (paper 2)](http://adsabs.harvard.edu/abs/2016ApJ...832..137A)
 * [Astraatmadja & Bailer-Jones 2016b (paper 3)](http://adsabs.harvard.edu/abs/2016ApJ...833..119A)
 * [Gaia Data Release 1](http://adsabs.harvard.edu/abs/2017A%26A...601A..19G)
+* GDR2 parallax paper (reference to be added)
 * [Practical Bayesian Inference (PBI)](http://www.cambridge.org/de/academic/subjects/physics/mathematical-methods/practical-bayesian-inference-primer-physical-scientists?format=PB)
 
