@@ -21,6 +21,6 @@ Resources and further information:
 * [Astraatmadja & Bailer-Jones 2016a (paper 2)](http://adsabs.harvard.edu/abs/2016ApJ...832..137A)
 * [Astraatmadja & Bailer-Jones 2016b (paper 3)](http://adsabs.harvard.edu/abs/2016ApJ...833..119A)
 * [Gaia Data Release 1](http://adsabs.harvard.edu/abs/2016A%26A...595A...2G)
-* [Luri et al. 2018 (tutorial on the use of parallaxes)]()
+* [Luri et al. 2018 (tutorial on the use of parallaxes)](https://repos.cosmos.esa.int/socci/projects/GAIA/repos/astrometry-inference-tutorials/browse)
 * [Practical Bayesian Inference (PBI)](http://www.cambridge.org/de/academic/subjects/physics/mathematical-methods/practical-bayesian-inference-primer-physical-scientists?format=PB)
 
