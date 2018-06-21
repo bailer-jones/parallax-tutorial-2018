@@ -1,0 +1,5 @@
+install.packages("PolynomF")
+install.packages("MASS")
+install.packages("mvtnorm")
+install.packages("RColorBrewer")
+install.packages("fields")
