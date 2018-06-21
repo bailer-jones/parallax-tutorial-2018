@@ -25,3 +25,4 @@ Resources and further information:
 * [Luri et al. 2018 (tutorial on the use of parallaxes)](https://repos.cosmos.esa.int/socci/projects/GAIA/repos/astrometry-inference-tutorials/browse)
 * [Practical Bayesian Inference (PBI)](http://www.cambridge.org/de/academic/subjects/physics/mathematical-methods/practical-bayesian-inference-primer-physical-scientists?format=PB)
 
+You can also run this code interactively using Binder: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ehalley/parallax-tutorial-2018/master)
