@@ -32,7 +32,7 @@ astro3d.to.phase3d <- function(astro3d) {
 jac.phase3d.astro3d <- function (astro3d) {
   musq <- astro3d[2]^2 + astro3d[3]^2
   mu <- sqrt(musq)
-  J <- matrix(data=c(-1e3/astro3d[1], 0, 0,
+  J <- matrix(data=c(-1e3/astro3d[1]^2, 0, 0,
                      -kf*mu/astro3d[1]^2, kf*astro3d[2]/(mu*astro3d[1]), kf*astro3d[3]/(mu*astro3d[1]),
                      0, astro3d[3]/musq, -astro3d[2]/musq),
               nrow=3, ncol=3, byrow=TRUE)
